@@ -1,0 +1,10 @@
+h1 {
+    color: pink !important;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 3rem;
+}
+
